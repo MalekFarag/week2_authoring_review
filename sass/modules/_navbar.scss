@@ -1,0 +1,12 @@
+nav{
+    background-color: whitesmoke;
+    border-top: 1px solid gray ;
+}
+
+nav a:nth-child(even){
+    color: red;
+}
+
+nav a{
+    text-decoration: none;
+}
