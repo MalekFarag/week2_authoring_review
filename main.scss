@@ -1,0 +1,10 @@
+//making css variable
+
+$glabla-bg-color: blue;
+$global-font-color: white;
+
+
+body{
+    margin: 0 auto;
+    background-color: $global-bg-color;
+}

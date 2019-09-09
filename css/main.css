@@ -1,0 +1,2 @@
+nav{background-color:whitesmoke;border-top:1px solid gray}nav a:nth-child(even){color:red}nav a{text-decoration:none}body{margin:0 auto;background-color:#fff}ul{display:flex;flex-direction:row}li{margin:20px}footer a{color:green;text-decoration:none}footer{transition:1s ease}footer:hover{background-color:lime}
+/*# sourceMappingURL=main.css.map */

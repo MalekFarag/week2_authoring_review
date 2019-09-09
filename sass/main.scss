@@ -1,0 +1,31 @@
+//linking navbar
+
+@import 'modules/_navbar.scss';
+@import 'modules/_vars.scss';
+
+
+body{
+    margin: 0 auto;
+    background-color: $global-bg-color;
+}
+
+ul{
+    display: flex;
+    flex-direction: row;
+}
+
+li{
+    margin: 20px;
+}
+
+footer a{
+    color: $footer-text-color;
+    text-decoration: none;
+}
+footer{
+    transition: 1s ease;
+}
+
+footer:hover{
+    background-color: $footer-bg-color;
+}
